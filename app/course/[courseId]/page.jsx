@@ -35,7 +35,7 @@ function Course({params}) {
         </div>
         <h2 className='text-sm text-gray-400 text-center mb-10'>This course created on 
         <Link href={'https://www.mydesignnexus.in'}>
-        www.mydesignnexus.in
+         <br /> www.mydesignnexus.in
         </Link></h2>
     </div>
   )
