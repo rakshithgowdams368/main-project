@@ -34,8 +34,8 @@ function Course({params}) {
         <ChapterList course={course}  edit={false}/>
         </div>
         <h2 className='text-sm text-gray-400 text-center mb-10'>This course created on 
-        <Link href={''}>
-        Tubeguruji AI Course Builder
+        <Link href={'https://www.mydesignnexus.in'}>
+        www.mydesignnexus.in
         </Link></h2>
     </div>
   )
